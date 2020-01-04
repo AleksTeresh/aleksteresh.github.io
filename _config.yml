@@ -1,9 +1,9 @@
 # main text of home
 name: Aleksandr Tereshchenko
-bio: A Man who travels the world eating noodles
+bio: Software Developer and CS student
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Aleksandr Tereshchenko. My website
 
 # if it's an external image, update below for true
 # better with square images
@@ -54,7 +54,7 @@ email: aleksandr.tereshch@gmail.com
 authors:
     aleksandrtereshchenko:
         name: Aleksandr Tereshchenko
-        bio: A Man who travels the world eating noodles
+        bio: Software Developer and CS student
         external-image: false
         picture: assets/images/profile.jpg
 

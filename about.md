@@ -4,43 +4,36 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I'm a CS student at Aalto University specializing in algorithms, logic and computation and doing Machine Learning / Data Science as my minor. For the last year, I was building things together with <a href="https://www.reaktor.com/">Reaktor</a>. Currently, I'm concentrating on finalizing my studies.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I'm a full-stack developer experienced with various technologies (see skills list below). Currently, I'm particularly interested in algorithm and logic as well as picking up some skills in data science.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+    <li>Bayesian data analysis workflow</li>
+	<li>TypeScript and Flow.js</li>
+	<li>React.js + Redux</li>
+	<li>Node.js</li>
+    <li>Docker</li>
+    <li>Jenkins</li>
+    <li>PostgreSQL</li>
+    <li>C#</li>
+    <li>Java (Dropwizard, Spring Boot)</li>
+    <li>Python</li>
+    <li>AWS</li>
+    <li>Azure Funtion apps</li>
+    <li>Genetic algorithms</li>
+    <li>OAuth2</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://alekte.com/BDA-project/">Bayesian Data Analysis of domestic violence in Finland</a></li>
+	<li><a href="https://github.com/AleksTeresh/fibonacci-heap">Fibonacci Heap</a></li>
+	<li><a href="https://github.com/AleksTeresh/hollow-heap">Hollow Heap</a></li>
+    <li><a href="https://github.com/AleksTeresh/free-and-functioning">Free and Functioning</a></li>
+    <li><a href="https://github.com/AleksTeresh/lexis-back">Lexis</a> (see front-end repository <a href="https://github.com/AleksTeresh/lexis-front">here</a>)</li>
+    <li><a href="https://github.com/AleksTeresh/classical">Classical</a></li>
 </ul>
