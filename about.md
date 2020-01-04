@@ -6,7 +6,7 @@ layout: page
 
 <p>I'm a CS student at Aalto University specializing in algorithms, logic and computation and doing Machine Learning / Data Science as my minor. For the last year, I was building things together with <a href="https://www.reaktor.com/">Reaktor</a>. Currently, I'm concentrating on finalizing my studies.</p>
 
-<p>I'm a full-stack developer experienced with various technologies (see skills list below). Currently, I'm particularly interested in algorithm and logic as well as picking up some skills in data science.</p>
+<p>I'm a full-stack developer experienced with various technologies (see skills list below). Currently, I'm particularly interested in algorithms and logic as well as picking up some skills in data science.</p>
 
 <h2>Skills</h2>
 
