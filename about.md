@@ -30,7 +30,8 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://alekte.com/BDA-project/">Bayesian Data Analysis of domestic violence in Finland</a></li>
+    <li><a href="https://alekte.com/congested-clique-routing/">Congested clique routing visualization</a></li>
+    <li><a href="https://alekte.com/BDA-project/">Bayesian Data Analysis of domestic violence in Finland</a></li>
 	<li><a href="https://github.com/AleksTeresh/fibonacci-heap">Fibonacci Heap</a></li>
 	<li><a href="https://github.com/AleksTeresh/hollow-heap">Hollow Heap</a></li>
     <li><a href="https://github.com/AleksTeresh/free-and-functioning">Free and Functioning</a></li>
